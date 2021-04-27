@@ -1,0 +1,24 @@
+{
+  "name": "MuteMute",
+  "version": "1.0.0",
+  "description": "Do you hold meetings or play Among Us on Discord? Are you lazy about muting people who talk on the phone? Here's your solution, use the only command that the bot have. The `mute mute` command will mute your entire voice channel. Our bot is the bot that you need, with only a command, you will save your time muting member per member individualy if you want to keep silence in the channel.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alekitopi/mutemute.git"
+  },
+  "keywords": [],
+  "author": "alekitopi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alekitopi/mutemute/issues"
+  },
+  "homepage": "https://github.com/alekitopi/mutemute#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0"
+  }
+}
